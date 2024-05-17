@@ -1,0 +1,11 @@
+h1 {
+    font-size: 50px;
+}
+
+p[id="second"] {
+    font-style: italic;
+}
+
+p[class="first"] {
+    text-decoration: underline;
+}
